@@ -102,3 +102,7 @@ footer {
     margin: 2rem auto;
   }
 }
+
+.dice-div:hover {
+  box-shadow: 1px 1px 34px var(--Neon-Green);
+}
